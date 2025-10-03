@@ -75,7 +75,7 @@
   Designed BI dashboard for data management and risk analytics.  
   Optimized SQL queries, improving performance by **30%**.  
 
-- **[UBS Data Extraction Tool]**  
+- **[Data Extraction Tool (UBS)]**  
   *Python | OCR | Automation*  
   Automated extraction from invoices & ID documents, improving accuracy & efficiency.  
   Presented workflow to UBS clients, demonstrating tangible business value.  

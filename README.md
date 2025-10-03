@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiyue (Cynthia)</h1>
 <h3 align="center"> 🎓 MIDS @ Duke University | Quant Finance  </h3>
-<h3 align="center"> 🎓 💻 Passionate about Data Science, Machine Learning, and Quant Analysis    </h3>
+<h3 align="center"> 💻 Passionate about Data Science, Machine Learning, and Quant Analysis    </h3>
 
 - 🔭 I’m currently working on **[Citizens Marketing Optimization Projects](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/troubleshooting-missing-contributions)** and [Climate Finance Tracker](https://github.com/ag826/DCID_MIDS_Climate_Finance_Tracker)
 

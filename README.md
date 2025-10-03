@@ -2,7 +2,7 @@
 <h3 align="center"> 🎓 MIDS @ Duke University | Quant Finance  </h3>
 <h3 align="center">  Passionate about Data Science, Machine Learning, and Quant Analysis    </h3>
 
-- 🔭 I’m currently working on **[Citizens Marketing Optimization Projects](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/troubleshooting-missing-contributions)** and(https://github.com/ag826/DCID_MIDS_Climate_Finance_Tracker)
+- 🔭 I’m currently working on **[Citizens Marketing Optimization Projects](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/troubleshooting-missing-contributions)**
 
 -  🌏  I’m currently working on ## [South East Asian Climate Finance Tracker](https://github.com/ag826/DCID_MIDS_Climate_Finance_Tracker/tree/main)(Research Assistant, Duke DCID)  
 *Python | Data Engineering | ESG Finance | NLP | Visualization*  

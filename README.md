@@ -1,9 +1,86 @@
 <h1 align="center">Hi 👋, I'm Shiyue (Cynthia)</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center"> 🎓 MIDS @ Duke University | Quant Finance  </h3>
+<h3 align="center"> 🎓 💻 Passionate about Data Science, Machine Learning, and Quant Analysis    </h3>
 
-- 🔭 I’m currently working on **Citizens Marketing Projects**
+- 🔭 I’m currently working on **[Citizens Marketing Projects](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/troubleshooting-missing-contributions)** and [Climate Finance Tracker](https://github.com/ag826/DCID_MIDS_Climate_Finance_Tracker)
 
-- 🔭 I’m currently working on [Climate Finance Tracker](https://github.com/ag826/DCID_MIDS_Climate_Finance_Tracker)
+## 📊 My Academic & Professional Projects  
+
+### 🏦 Finance
+- **[Volatility-Targeted Hedging for a Tech Index Portfolio](https://github.com/CynthiaShiyue/IDS583_Risk_Management)**  
+  *Python | XGBoost | GARCH | Options | Risk Management*  
+  Built volatility forecasting models with GARCH & XGBoost, engineered option Greeks and macro features.  
+  Designed dynamic hedging strategies (collars, put spreads, protective puts), improving Sharpe Ratio **+21%** and cutting volatility **–24%** over 3 years.  
+
+- **[Sentiment-Driven Commodity Trading with NLP](https://github.com/CynthiaShiyue/commodity-pairs-trading-with-sentiment)**  
+  *Python | QuantConnect | FinBERT | Risk Management*  
+  Developed sentiment-driven strategies with stop-loss, Z-score exits, and drawdown-triggered liquidation.  
+  Applied slippage models & inverse-volatility weighting to stabilize performance, containing volatility <20%.  
+
+- **[AI Hardware Tariff Event Study](https://github.com/CynthiaShiyue/IDS701_Causal_Report_Project)**  
+  *Python | pandas | statsmodels | DiD | Event Study*  
+  Measured causal impact of U.S. tariff announcement on AI hardware stocks.  
+  Identified significant abnormal returns in NVIDIA, AMD, INTC vs SaaS control firms.  
+
+---
+
+### 🤖 Machine Learning & Data Engineering
+- **[Wildfire Housing Price ML Analysis](https://github.com/CynthiaShiyue/IDS705_MachineLearning_Project)**  
+  *XGBoost | Random Forest | Logistic Regression | SHAP*  
+  Predicted housing price changes at CA census-tract level (2012–2022) with wildfire & demographic features.  
+  Used SHAP to interpret nonlinear effects and explored spillovers beyond burned areas.  
+
+- **[Real-Time Weather Dashboard](https://github.com/CynthiaShiyue/2024FALL_DataEngineering_FinalProject)**  
+  *Python | SQLite | Streamlit | AWS EC2 | CI/CD*  
+  Built automated ETL pipeline with anomaly detection from CSV + OpenWeather API.  
+  Deployed containerized dashboard with Folium maps and live updates via GitHub Actions.  
+
+---
+
+### 📈 Data Analysis & Statistics
+- **[Socioeconomic, Health & Education Disparities in U.S. Counties](https://github.com/CynthiaShiyue/F24_STATS_FINAL)**  
+  *R | Regression | dplyr*  
+  Modeled life expectancy & funding adequacy with IPUMS + County Health Rankings data.  
+  Identified regional disparities as strongest predictor of health and education outcomes.  
+
+- **[Opioid Policy Effectiveness Analysis](https://github.com/CynthiaShiyue/2024FALL_PDS_opioids_data_analysis)**  
+  *Python | pandas | DiD | Causal Inference*  
+  Evaluated Florida vs Washington opioid policies using pre-post and DiD designs.  
+  Found Florida’s multi-faceted interventions yielded sustained harm reductions.  
+
+- **[UBS Stock Return Forecasting](https://github.com/CynthiaShiyue/IDS789-Financial-Model-Project)**  
+  *Python | ARIMAX | Bayesian | LSTM*  
+  Forecasted UBS stock returns with risk factors (bid-ask spread, trading volume, macro indicators).  
+  Compared ML and time series models, assessed accuracy via MSFE.  
+
+- **[Bayesian Stock Return Analysis]**  
+  *R | Hierarchical Models | PSIS LOO-CV*  
+  Built hierarchical Bayesian models with random walk priors for stock forecasting.  
+  Validated convergence with trace plots and Rhat, ensuring robustness.  
+
+- **[Economic Forecasting & Big Data]**  
+  *Eviews | Excel | Time Series*  
+  Modeled stochastic economic variables, selected via AIC, validated forecasts with MSFE.  
+
+---
+
+### 💻 Software Engineering
+- **[Trading System for Fixed-Income Securities (Credit Suisse)](https://github.com/CynthiaShiyue/cs-2022-us-2)**  
+  *Java | Apache Spark | Distributed Computing | Fixed Income*  
+  Built Spark-based workflows for real-time & historical bond trading data from Bloomberg/Tradeweb ECNs.  
+  Streamlined pipelines for both streaming & archived data, improving scalability & trading insights.  
+
+- **[Business Intelligence Dashboard (Credit Suisse)]**  
+  *Qlik Sense | React | SQL | Spring Boot*  
+  Designed BI dashboard for data management and risk analytics.  
+  Optimized SQL queries, improving performance by **30%**.  
+
+- **[UBS Data Extraction Tool]**  
+  *Python | OCR | Automation*  
+  Automated extraction from invoices & ID documents, improving accuracy & efficiency.  
+  Presented workflow to UBS clients, demonstrating tangible business value.  
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

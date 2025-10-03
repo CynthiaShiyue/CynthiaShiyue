@@ -2,7 +2,15 @@
 <h3 align="center"> 🎓 MIDS @ Duke University | Quant Finance  </h3>
 <h3 align="center">  Passionate about Data Science, Machine Learning, and Quant Analysis    </h3>
 
-- 🔭 I’m currently working on **[Citizens Marketing Optimization Projects](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/troubleshooting-missing-contributions)** and [South East Asian Climate Finance Tracker](https://github.com/ag826/DCID_MIDS_Climate_Finance_Tracker)
+- 🔭 I’m currently working on **[Citizens Marketing Optimization Projects](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/troubleshooting-missing-contributions)** and(https://github.com/ag826/DCID_MIDS_Climate_Finance_Tracker)
+
+-  🌏  I’m currently working on ## [South East Asian Climate Finance Tracker](https://github.com/ag826/DCID_MIDS_Climate_Finance_Tracker/tree/main)(Research Assistant, Duke DCID)  
+*Python | Data Engineering | ESG Finance | NLP | Visualization*  
+- Collaborating with Duke Center for International Development (DCID) on a multi-year project to build a **Climate Finance Tracker** for Southeast Asia.  
+- Developing databases to quantify **public, private, and blended finance flows**; supporting data integration with external research partners.  
+- Conducting **data sourcing, sector classification, and ESG tagging** (mitigation vs adaptation, financial instruments, funders/recipients).  
+- Designing **data analysis and visualization products** for project-related research, teaching, and policy presentations.  
+- Supporting conference deliverables, including presentation of findings at the **Singapore flagship conference (2026)**.  
 
 ## My Academic & Professional Projects  
 

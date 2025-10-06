@@ -17,7 +17,8 @@
 ---
 
 <h3>🎓 B.A. in Mathematics & Economics, Minor in Statistics @ Rutgers University</h3>  
-<h4>📜 Certificates: Financial Economics | Quantitative Economics | Computational Economics & Data Analytics</h4>  
+<h4>📜 Certificates: Financial Economics | Quantitative Economics | Computational Economics & Data Analytics</h4>   
+
 **Honors:** Summa Cum Laude · SAS Dean’s List · Phi Beta Kappa · Bear Stearns Scholarship · Milton Friedman Distinguished Scholar  
 
 **Key Courses:** Portfolio Theory · Time Series · Mathematical Finance · Stochastic Processes · Bayesian Data Analysis · Regression Methods · Game Theory · Uncertainty · Calculus · Statistics · Linear Algebra · Probability · Accounting  

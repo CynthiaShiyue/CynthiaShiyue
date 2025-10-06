@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiyue (Cynthia)</h1>
 <h3 align="center"> 🎓 MIDS @ Duke University | Quant Finance  </h3>
-<h3 align="center">  Passionate about Data Science, Machine Learning, and Quant Analysis    </h3>  
+<h3 align="center"> 🎓 Math & Econ, Stat @ Rutgers University | Certificate in Financial Economics, Quantitative Economics, Computational Economics and Data Analytics   </h3>
+<h3 align="center">  Passionate about Data Science, Machine Learning, and Quantitative Analysis    </h3>  
 
 - 🔭 I’m currently working on **[Citizens Marketing Optimization Projects](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/troubleshooting-missing-contributions)**  
 

@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shiyue (Cynthia)</h1>
-<h3 align="center"> 🎓 MIDS @ Duke University | Quant Finance  </h3>
-<h3 align="center"> 🎓 Math & Econ, Stat @ Rutgers University | Certificate in Financial Economics, Quantitative Economics, Computational Economics and Data Analytics   </h3>
-<h3 align="center">  Passionate about Data Science, Machine Learning, and Quantitative Analysis    </h3>  
+<h1 align="center">Hi 👋, I'm Shiyue (Cynthia)</h1>  
+<h3 align="center">🎓 MIDS @ Duke University | Quant Finance</h3>  
+<h3 align="center">📊 Passionate about Data Science, Machine Learning, and Quantitative Analysis</h3>  
+
+---
 
 - 🔭 I’m currently working on **[Citizens Marketing Optimization Projects](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/troubleshooting-missing-contributions)**  
 
@@ -12,6 +13,17 @@
   - Conducting **data sourcing, sector classification, and ESG tagging** (mitigation vs adaptation, financial instruments, funders/recipients).  
   - Designing **data analysis and visualization products** for project-related research, teaching, and policy presentations.  
   - Supporting conference deliverables, including presentation of findings at the **Singapore flagship conference (2026)**.  
+
+---
+
+<h3>🎓 B.A. in Mathematics & Economics, Minor in Statistics @ Rutgers University</h3>  
+<h4>📜 Certificates: Financial Economics | Quantitative Economics | Computational Economics & Data Analytics</h4>  
+**Honors:** Summa Cum Laude · SAS Dean’s List · Phi Beta Kappa · Bear Stearns Scholarship · Milton Friedman Distinguished Scholar  
+
+**Key Courses:** Portfolio Theory · Time Series · Mathematical Finance · Stochastic Processes · Bayesian Data Analysis · Regression Methods · Game Theory · Uncertainty · Calculus · Statistics · Linear Algebra · Probability · Accounting  
+
+---
+
 
 
 ## My Academic & Professional Projects  

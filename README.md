@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently working on **[Citizens Marketing Optimization Projects](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/troubleshooting-missing-contributions)**  
+- 🔭 I’m currently working on **[Citizens Marketing Optimization Projects](https://github.com/CynthiaShiyue/Citizens-Marketing-Capstone)**  
 
 - 🌏 I’m currently working on **[South East Asian Climate Finance Tracker](https://github.com/ag826/DCID_MIDS_Climate_Finance_Tracker/tree/main)** (Research Assistant, Duke DCID)  
   *Python | Data Engineering | ESG Finance | NLP | Visualization*  

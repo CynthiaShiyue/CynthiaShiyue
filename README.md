@@ -29,7 +29,7 @@
 
 ## My Academic & Professional Projects  
 ### 📊 LLM and Data Analysis
-- **[Data to Insight Agent](https://github.com/CynthiaShiyue/Retail-Data-to-Insight-Agent)**
+- **[Data to Insight Agent](https://github.com/CynthiaShiyue/Retail-Data-to-Insight-Agent)**  
   *Python |LLM| Retail's Sales Analysis*  
 
 ### 🏦 Finance

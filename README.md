@@ -30,7 +30,9 @@
 ## My Academic & Professional Projects  
 ### 📊 LLM and Data Analysis
 - **[Data to Insight Agent](https://github.com/CynthiaShiyue/Retail-Data-to-Insight-Agent)**  
-  *Python |LLM| Retail's Sales Analysis*  
+  *Python | Streamlit | LLM | Retail's Sales Analysis*
+  A **lightweight AI prototype** that reads structured retail datasets (CSV or Excel) and automatically generates **business insights**, **trend analyses**, and **data-driven recommendations**.
+  It combines automated data preprocessing, key sales KPI tracking, and LLM-powered recommendations through the Ollama API.
 
 ### 🏦 Finance
 - **[Volatility-Targeted Hedging for a Tech Index Portfolio](https://github.com/CynthiaShiyue/IDS583_Risk_Management)**  

@@ -28,6 +28,9 @@
 
 
 ## My Academic & Professional Projects  
+### 📊 LLM and Data Analysis
+- **[Data to Insight Agent](https://github.com/CynthiaShiyue/Retail-Data-to-Insight-Agent)**
+  *Python |LLM| Retail's Sales Analysis*  
 
 ### 🏦 Finance
 - **[Volatility-Targeted Hedging for a Tech Index Portfolio](https://github.com/CynthiaShiyue/IDS583_Risk_Management)**  

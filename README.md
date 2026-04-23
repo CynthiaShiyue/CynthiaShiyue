@@ -53,6 +53,14 @@
 ---
 
 ### 🤖 Machine Learning & Data Engineering
+
+
+- **[NLP & Semantic Retrieval Project: Transformer-Based Text Matching](https://github.com/CynthiaShiyue/F25_NLP_Cross-Domain-Job-Matching)**  
+  *NLP*  
+  Built an end-to-end ML pipeline for large-scale semantic text retrieval, including data preprocessing, representation learning, transformer fine-tuning, and reproducible evaluation workflows, enabling retrieval of semantically related queries at scale.
+  Fine-tuned transformer models using contrastive learning and hard-negative sampling, improving semantic discrimination and retrieval quality through systematic validation and error analysis.
+
+
 - **[Wildfire Housing Price ML Analysis](https://github.com/CynthiaShiyue/IDS705_MachineLearning_Project)**  
   *XGBoost | Random Forest | Logistic Regression | SHAP*  
   Predicted housing price changes at CA census-tract level (2012–2022) with wildfire & demographic features.  

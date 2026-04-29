@@ -49,11 +49,11 @@
   Measured causal impact of U.S. tariff announcement on AI hardware stocks.  
   Identified significant abnormal returns in NVIDIA, AMD, INTC vs SaaS control firms.
   
--  **[Citizens Marketing Optimization Projects](https://github.com/CynthiaShiyue/Citizens-Marketing-Capstone)**
-  *Python | MMM | Optimization*  
-  Developed econometric Marketing Mix Models (MMM) framed as a quasi-experimental evaluation to quantify the causal impact of marketing channels, macroeconomic factors, and branch presence on deposit growth across multiple banking products.  
-  Defined primary and secondary KPIs (incremental deposits, ROI, channel contribution) and applied regression diagnostics, cross-validation, and counterfactual analysis to validate statistical significance and model robustness for executive decision-making.  
-  Simulated alternative investment scenarios using counterfactual forecasting to estimate incremental lift and marginal ROI, translating analytical findings into actionable budget reallocation recommendations that informed product and growth strategy.  
+-  **[Citizens Marketing Optimization Projects](https://github.com/CynthiaShiyue/Citizens-Marketing-Capstone)**   
+  *Python | MMM | Optimization | Scenario Analysis | Budget Reallocation*   
+   •	Developed econometric models to decompose deposit growth into contributions from marketing channels and macroeconomic factors, using custom performance metrics to evaluate channel effectiveness and ROI.   
+  •	Conducted scenario analysis to compare alternative marketing investment strategies and optimize budget allocation.   
+
 
 
 ---

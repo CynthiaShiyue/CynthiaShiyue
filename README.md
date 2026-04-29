@@ -4,7 +4,6 @@
 
 ---
 
-- 🔭 I’m currently working on **[Citizens Marketing Optimization Projects](https://github.com/CynthiaShiyue/Citizens-Marketing-Capstone)**  
 
 - 🌏 I’m currently working on **[South East Asian Climate Finance Tracker](https://github.com/ag826/DCID_MIDS_Climate_Finance_Tracker/tree/main)** (Research Assistant, Duke DCID)  
   *Python | Data Engineering | ESG Finance | NLP | Visualization*  
@@ -48,7 +47,14 @@
 - **[AI Hardware Tariff Event Study](https://github.com/CynthiaShiyue/IDS701_Causal_Report_Project)**  
   *Python | pandas | statsmodels | DiD | Event Study*  
   Measured causal impact of U.S. tariff announcement on AI hardware stocks.  
-  Identified significant abnormal returns in NVIDIA, AMD, INTC vs SaaS control firms.  
+  Identified significant abnormal returns in NVIDIA, AMD, INTC vs SaaS control firms.
+  
+-  **[Citizens Marketing Optimization Projects](https://github.com/CynthiaShiyue/Citizens-Marketing-Capstone)**
+  *Python | MMM | Optimization*  
+  Developed econometric Marketing Mix Models (MMM) framed as a quasi-experimental evaluation to quantify the causal impact of marketing channels, macroeconomic factors, and branch presence on deposit growth across multiple banking products.  
+  Defined primary and secondary KPIs (incremental deposits, ROI, channel contribution) and applied regression diagnostics, cross-validation, and counterfactual analysis to validate statistical significance and model robustness for executive decision-making.  
+  Simulated alternative investment scenarios using counterfactual forecasting to estimate incremental lift and marginal ROI, translating analytical findings into actionable budget reallocation recommendations that informed product and growth strategy.  
+
 
 ---
 

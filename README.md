@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiyue (Cynthia)</h1>  
 <h3 align="center">🎓 MIDS @ Duke University | Quant Finance</h3>  
-<h3 align="center">📊 Quantitative Data Analyst focused on econometric analysis, data quality, and reproducible analytical workflows. </h3>  
+<h3 align="center">📊 Passionate about Data Science, Machine Learning, and Quantitative Analysis </h3>  
 
 
 
